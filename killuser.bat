@@ -1,0 +1,1 @@
+ssh root@w "pkill -KILL -t tty1"
